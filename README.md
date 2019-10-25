@@ -1,2 +1,0 @@
-# campamobile
-Version movil
